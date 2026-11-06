@@ -25,9 +25,8 @@ RegisterNumber:
 */
 ```
 
-## Output:
-![best fit line](sam.png)
-
+## Output:)
+<img width="901" height="797" alt="Screenshot 2026-02-12 164538" src="https://github.com/user-attachments/assets/74b6b8a7-a0a2-46d4-868d-c6a99a00512b" />
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
